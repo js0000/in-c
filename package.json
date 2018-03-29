@@ -2,7 +2,7 @@
   "name": "in-c",
   "version": "1.0.0",
   "scripts": {
-    "start": "webpack-dashboard -- webpack-dev-server --inline --hot --progress --host 0.0.0.0 --port 8080",
+    "start": "webpack-dashboard -- webpack-dev-server --inline --hot --progress --host 0.0.0.0 --port 8000",
     "build": "rimraf dist && webpack --config config/webpack.prod.js --progress --profile --bail"
   },
   "license": "ISC",

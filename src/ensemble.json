@@ -10,23 +10,5 @@
     "instrumentName": "Gnarly Trance Pluck",
     "gain": 0.1,
     "pan": -0.4
-  },
-  {
-    "instrument": "tight-synth-bass",
-    "instrumentName": "Tight Synth Bass",
-    "gain": 0.5,
-    "pan": 0
-  },
-  {
-    "instrument": "glass-string-structures",
-    "instrumentName": "Glass String Structures",
-    "gain": 0.5,
-    "pan": 0.4
-  },
-  {
-    "instrument": "delicate-bells",
-    "instrumentName": "Delicate Bells",
-    "gain": 0.2,
-    "pan": 0.9
   }
 ]
