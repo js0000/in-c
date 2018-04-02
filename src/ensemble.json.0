@@ -1,0 +1,14 @@
+[
+  {
+    "instrument": "synthetic-marimba-high",
+    "instrumentName": "Synthetic Marimba",
+    "gain": 0.8,
+    "pan": -0.9
+  },
+  {
+    "instrument": "gnarly-trance-pluck-high",
+    "instrumentName": "Gnarly Trance Pluck",
+    "gain": 0.1,
+    "pan": -0.4
+  }
+]
