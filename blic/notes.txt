@@ -1,0 +1,19 @@
+# notes.txt
+# for stuff to remember
+
+commands to generate pdf from rst
+rst2latex blic.rst > blic.tex
+
+then, blic.tex needs to be edited to change one line at the top of
+the file.
+
+FROM:
+\documentclass[a4paper]{article}
+TO:
+\documentclass[letterpaper]{article}
+
+then generate the pdf
+pdflatex blic.tex
+
+command to join pdfs
+pdftk blic.pdf in-c-score-notes.pdf cat output blic-score.pdf
